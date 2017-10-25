@@ -6,7 +6,10 @@ public class TestingCollab {
 		System.out.println("yes");
 		System.out.println("yes");
 		System.out.println("yes");
-		Systme.out.println("FUNKA FÖR FAN");
+		System.out.println("FUNKA FÃ¶R FAN");
+		System.out.println("hejsan!!!");
+		
+		
 		
 	}
 

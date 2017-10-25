@@ -8,7 +8,7 @@ public class CollTest {
 		
 		System.out.println(changeMeToSomething);
 		
-		System.out.println("Testing");
+		
 
 	}
 

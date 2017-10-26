@@ -9,6 +9,7 @@ public class TestingCollab {
 		System.out.println("FUNKA FÖR FAN");
 		System.out.println("öö");
 		//aosjdoakdsyguigjhdfyguhij
+		
 	}
 
 }
